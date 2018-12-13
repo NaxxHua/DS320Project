@@ -2,6 +2,7 @@
 This is our DS 320 project.
 Doing kaggle playground competitions for PUBG Finish Placement Prediction. Using multiple algorithms to do the training and finally use ensemble to create a better predict performance.
 
+Also this competition is kernel only
 
 
 
