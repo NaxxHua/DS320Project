@@ -5,7 +5,7 @@ We are doing kaggle playground competitions for PUBG Finish Placement Prediction
 
 Also this competition is kernel only
 
-
+Project webpage: http://personal.psu.edu/hkh5094/DS320/Predict%20PUBG%20placement.html
 
 
 
